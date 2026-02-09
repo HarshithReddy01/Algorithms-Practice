@@ -7,10 +7,10 @@ The goal of this repo is to strengthen problem-solving skills while building str
 
 ## Purpose of This Repository
 
-✔ Build strong algorithmic thinking  
-✔ Practice ML & DL concepts hands-on  
-✔ Track learning progress publicly  
-✔ Create a solid AI/ML portfolio  
+-Build strong algorithmic thinking  
+-Practice ML & DL concepts hands-on  
+-Track learning progress publicly  
+-Create a solid AI/ML portfolio  
 
 ---
 
